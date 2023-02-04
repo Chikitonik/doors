@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/doors/static/js/main.4517e1db.js",
+    "main.js": "/doors/static/js/main.0a6c408f.js",
     "static/media/canvas.png": "/doors/static/media/canvas.e573e63c71cd36b239e8.png",
     "index.html": "/doors/index.html",
-    "main.4517e1db.js.map": "/doors/static/js/main.4517e1db.js.map"
+    "main.0a6c408f.js.map": "/doors/static/js/main.0a6c408f.js.map"
   },
   "entrypoints": [
-    "static/js/main.4517e1db.js"
+    "static/js/main.0a6c408f.js"
   ]
 }
