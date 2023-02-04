@@ -47,7 +47,8 @@ function App() {
       <Paper
         id="parameters"
         sx={{
-          width: 320,
+          minWidth: 320,
+          maxWidth: 320,
           zIndex: "tooltip",
           p: 1,
           ml: 69,
